@@ -1,6 +1,6 @@
 <div id="logos" class="responsive">
-    <a href="https://www.kyoto-u.ac.jp/en/"><img src="/static/img/kyoto.png" /></a>
-    <a href="https://team.inria.fr/parietal/"><img src="/static/img/inria.jpg" /></a>
+    <a href="https://www.kyoto-u.ac.jp/en/"><img src="static/img/kyoto.png" /></a>
+    <a href="https://team.inria.fr/parietal/"><img src="static/img/inria.jpg" /></a>
 </div>
 
 # Research interests
