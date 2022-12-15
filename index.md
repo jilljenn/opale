@@ -11,17 +11,27 @@
 
 # Publications
 
-> Sein Minn, Jill-Jênn Vie, Koh Takeuchi, Hisashi Kashima, Feida Zhu (2022). **Interpretable Knowledge Tracing: Simple and Efficient Student Modeling with Causal Relations**. Proceedings of the AAAI Conference on Artificial Intelligence 2022, in press.
+> Minn, Sein, Jill-Jênn Vie, Koh Takeuchi, Hisashi Kashima, and Feida Zhu. 2022. “Interpretable Knowledge Tracing: Simple and Efficient Student Modeling with Causal Relations.” In Proceedings of the AAAI Conference on Artificial Intelligence, 36:12810–18. 11. <https://doi.org/10.1609/aaai.v36i11.21560>.
 
-See you at [EAAI-2022](https://pages.mtu.edu/~lebrown/eaai/) in Vancouver, on Feb 26--27, 2022.
+> Vie*, Jill-Jênn, Tomas Rigaux*, and Sein Minn. 2022. “Privacy-Preserving Synthetic Educational Data Generation.” In Proceedings of EC-TEL 2022. Educating for a New Future: Making Sense of Technology-Enhanced Learning Adoption, 393–406. <https://doi.org/10.1007/978-3-031-16290-9_29>.
+
+> Vie, Jill-Jênn, Tomas Rigaux, and Hisashi Kashima. 2022. “Variational Factorization Machines for Preference Elicitation in Large-Scale Recommender Systems.” In Proceedings of IEEE BigData 2022, in press. <https://jiji.cat/bigdata/vie2022vfm.pdf>
+
+See you at [IEEE BigData 2022](https://bigdataieee.org/BigData2022/) in Osaka, on Dec 17--20, 2022.
 
 # Seminars
 
 Date | Place | Title
 --|--|--
-April 1, 2021  |  Inria Saclay  |  Causal inference methods for combining randomized controlled trials and observational studies, Bénédicte Colnet (Inria)
-November 9, 2021  |  Sorbonne Université, MOCAH  |  Knowledge Assessment in Adaptive Learning Environments, Sein Minn
+December 20, 2022 | IEEE BigData 2022 @ Osaka | Variational factorization machines for preference elicitation in large-scale recommender systems, Jill-Jênn Vie
+December 12, 2022 | Seminar in Kyoto University | Modeling uncertainty for policy learning in education, Jill-Jênn Vie
+October 24, 2022 | Seminar in Inria Saclay | Guidance effect estimation on crowd movement by counterfactual regression, Koh Takeuchi
+September 15, 2022 | EC-TEL 2022 @ Toulouse | Privacy-Preserving Synthetic Educational Data Generation, Tomas Rigaux
+September 6, 2022 | Online seminar | Privacy-Preserving Synthetic Educational Data Generation, Jill-Jênn Vie
+February 27, 2022 | EAAI 2022 @ Vancouver (online) | Interpretable Knowledge Tracing, Sein Minn
 December 15, 2021  |  Inria Saclay  |  Knowledge Assessment in Adaptive Learning Environments, Sein Minn
+November 9, 2021  |  Sorbonne Université, MOCAH  |  Knowledge Assessment in Adaptive Learning Environments, Sein Minn
+April 1, 2021  |  Inria Saclay  |  Causal inference methods for combining randomized controlled trials and observational studies, Bénédicte Colnet
 
 # Datasets
 
@@ -42,9 +52,13 @@ December 15, 2021  |  Inria Saclay  |  Knowledge Assessment in Adaptive Learning
 
 # Members
 
-- [Jill-Jênn Vie](https://jjv.ie), SODA, Inria Saclay, junior researcher
+- [Jill-Jênn Vie](https://jjv.ie), SODA, Inria Saclay, research scientist
 - [Koh Takeuchi](https://koh-t.github.io), Kyoto University, assistant professor
 - [Hisashi Kashima](https://hkashima.github.io/index_e.html), Kyoto University, full professor
-- [Gaël Varoquaux](http://gael-varoquaux.info), SODA, Inria Saclay, senior researcher
-- [Sein Minn](https://sites.google.com/view/sein-minn), SCOOL, Inria Lille, postdoctoral researcher
+- [Gaël Varoquaux](http://gael-varoquaux.info), SODA, Inria Saclay, director of research
 - [Bénédicte Colnet](https://benedictecolnet.github.io), SODA, Inria Saclay, PhD student
+- Tomas Rigaux, SODA, Inria Saclay, research engineer
+
+## Former members
+
+- [Sein Minn](https://sites.google.com/view/sein-minn), SCOOL, Inria Lille, postdoctoral researcher
