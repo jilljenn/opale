@@ -17,8 +17,6 @@
 
 > Vie, Jill-Jênn, Tomas Rigaux, and Hisashi Kashima. 2022. “Variational Factorization Machines for Preference Elicitation in Large-Scale Recommender Systems.” In Proceedings of IEEE BigData 2022, in press. <https://jiji.cat/bigdata/vie2022vfm.pdf>
 
-See you at [IEEE BigData 2022](https://bigdataieee.org/BigData2022/) in Osaka, on Dec 17--20, 2022.
-
 # Seminars
 
 Date | Place | Title
@@ -26,7 +24,7 @@ Date | Place | Title
 December 20, 2022 | IEEE BigData 2022 @ Osaka | Variational factorization machines for preference elicitation in large-scale recommender systems, Jill-Jênn Vie
 December 12, 2022 | Seminar in Kyoto University | Modeling uncertainty for policy learning in education, Jill-Jênn Vie
 October 24, 2022 | Seminar in Inria Saclay | Guidance effect estimation on crowd movement by counterfactual regression, Koh Takeuchi
-September 15, 2022 | EC-TEL 2022 @ Toulouse | Privacy-Preserving Synthetic Educational Data Generation, Tomas Rigaux
+September 15, 2022 | EC-TEL 2022 @ Toulouse | [Privacy-Preserving Synthetic Educational Data Generation](https://jjv.ie/slides/ectel2022.pdf), Tomas Rigaux
 September 6, 2022 | Online seminar | Privacy-Preserving Synthetic Educational Data Generation, Jill-Jênn Vie
 February 27, 2022 | EAAI 2022 @ Vancouver (online) | Interpretable Knowledge Tracing, Sein Minn
 December 15, 2021  |  Inria Saclay  |  Knowledge Assessment in Adaptive Learning Environments, Sein Minn
